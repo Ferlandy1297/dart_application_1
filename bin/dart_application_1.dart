@@ -81,7 +81,7 @@ class ArbolBinario {
 void main() {
   ArbolBinario empresa = ArbolBinario();
 
-  // Insertando empleados en el árbol
+  // Insertando los empleados en el árbol
   empresa.insertar(50, "Director General");
   empresa.insertar(30, "Gerente de Finanzas");
   empresa.insertar(70, "Gerente de Tecnología");
